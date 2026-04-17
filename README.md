@@ -1,5 +1,5 @@
 <h1>Latent Space Skinning (LSS)</h1>
-<h2>Latent‑Space Skinning: Skeleton‑Free Mesh Animation</h2>
+<h2>Latent‑Space Skinning: Learning Compact Representations for Mesh Animations </h2>
 
 <h2>Introduction</h2>
 <p>
