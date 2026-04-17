@@ -3,8 +3,7 @@
 
 <h2>Introduction</h2>
 <p>
-This repository presents <strong>Latent Space Skinning (LSS)</strong>, a skeleton‑free framework for character animation built around an encoder–decoder architecture. 
-The method takes a high‑level representation of an animation sequence and maps it into a <strong>universal latent embedding</strong> that captures the essential motion dynamics in a highly compressed form.
+This repository presents <strong>Latent Space Skinning (LSS)</strong>. The method takes a high‑level representation of an animation sequence and maps it into a <strong>universal latent embedding</strong> that captures the essential motion dynamics in a highly compressed form.
 </p>
 
 <p>
